@@ -1,4 +1,4 @@
-# My Radar: Air Traffic Control Panel Simulation
+# {EPITECH} my_radar Project
 
 ## Overview
 
